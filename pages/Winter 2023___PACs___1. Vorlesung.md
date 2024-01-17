@@ -1,0 +1,11 @@
+- Infos:
+	- Fach: [[Winter 2023/PACs]]
+	- Datum der Vorlesung:
+	- PDF: ![2-Introduction.pdf](../assets/2-Introduction_1704381187803_0.pdf)
+-
+- [[Kryptographie]]
+- [[Kryptographie/Sicherheit]]
+- [[Kryptographie/Kryptographische Geräte]]
+-
+-
+-

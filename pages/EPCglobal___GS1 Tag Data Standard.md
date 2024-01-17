@@ -1,0 +1,14 @@
+- Haupt-Ziel: Exisitierende Serialisierte und Nicht- [[Serialisierte Nummern Schemata]] RFID Fähig machen
+- EAN.UCC
+	- Verschiedene Anwendungsfälle: Artikelnummer (EAN)
+- GTIN
+  id:: 6585636f-a8d2-4ebb-88eb-6e1a66b195e5
+	- global Trade Item Number: Identifiziert alle Arten von Produkten oder Dienste
+		- Inkludiert Bücher (ISBN)
+	- Item Level Enhancment (Serialisierte Version) nennt men SGTIN
+- SSCC
+	- Serial Shipping Container Code: Identifiziert Packungseinheiten wie Boxen oder Paletten, nicht das verpackte Produkt
+- GLN
+	- Global Location Number
+	- Identifiziert functionale oder Physische Entitäten die am Prozess teilnehmen
+		- Z.B. Große, stationäre Reader

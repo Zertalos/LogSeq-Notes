@@ -1,0 +1,9 @@
+- Sicherheit eines Kryptographischen Systems
+	- s. [[Kryptographie]]
+	- Basiert auf Schlüssel, nicht auf Verfahren
+		- Kerckhoffs Prinzip
+			- Laut dem Kerckhoffs-Prinzip sollte ein Kryptosystem nicht geheim gehalten werden müssen und ohne Unannehmlichkeiten in die Hände des Feindes fallen können.
+			- Die Sicherheit von Kryptosystemen basiert auf der **Geheimhaltung eines Schlüssels**. Es ist einfacher, einen geheimen Schlüssel geheim zu halten als einen geheimen Algorithmus.
+			- Schlüssel können leichter geändert werden als Algorithmen.
+-
+-

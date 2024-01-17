@@ -1,0 +1,2 @@
+- Tor das automatisch alle passierenden RFIDs erfasst
+-

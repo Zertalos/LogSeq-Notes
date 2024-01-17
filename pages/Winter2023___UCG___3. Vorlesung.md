@@ -1,0 +1,17 @@
+- Vorlesungs-Info:
+	- Fach: [[Winter2023/UCG]]
+	- Datum der Vorlesung: [[Jan 12th, 2024]]
+	- PDF: ![Ubicomp-Biz-2022-Part-III-LH.pdf](../assets/Ubicomp-Biz-2022-Part-III-LH_1705049729133_0.pdf)
+- ((65a0ff8f-876e-4547-afcc-bfbfda28fcdb))
+- [[Open Urban Data]]
+	- Aufgabe des ERPs in der Kommune
+		- Bereitstellung eines Zentralen Systems das über verschiedene Behörden und Abteilungen genau ein System gibt da
+	- Im Kontrast zum [[EPCglobal/EPC]] werden hier Daten an jeden bereit gestellt, uneingeschränkt und über APIs die es erlauben die Daten in eigene Anwendungen einzubinden
+	- Data Flow in Urbane Pulse
+-
+	-
+	-
+	-
+-
+- Smart Items in Smart City
+-

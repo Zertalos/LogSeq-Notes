@@ -1,0 +1,3 @@
+- Serialsierte Nummern Schemata Ordnen jeder Entity genau EINE Nummer zu
+	- Unique ID
+- Nicht-Serialisierte Nummern Schemata im Gegensatz dazu: Eine Nummer für ein Produkt, nicht für jede Entität des Produktes

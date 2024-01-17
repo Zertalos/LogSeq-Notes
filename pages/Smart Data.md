@@ -1,0 +1,5 @@
+- Smart Data bezieht sich auf digitale Informationen, die so verarbeitet und interpretiert werden, dass sie für Unternehmen, Organisationen oder Einzelpersonen nützlich und zugänglich sind.
+- Im Gegensatz zu "Big Data", was eine große Menge roher und unstrukturierter Daten beschreibt, steht Smart Data für Daten, die durch Analyse und Interpretation verfeinert oder optimiert wurden, um einen konkreten Mehrwert oder Nutzen zu bieten.
+- Das Konzept von Smart Data geht davon aus, dass der tatsächliche Wert von Daten nicht in ihrer Menge liegt, sondern in ihrer Verwendbarkeit.
+- Der Prozess der Umwandlung von Big Data in Smart Data umfasst in der Regel die Sammlung, Analyse und Verarbeitung einer großen Menge von Daten, oft in Echtzeit, um daraus verwertbare Einblicke zu gewinnen.
+-

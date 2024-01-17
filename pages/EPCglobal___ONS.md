@@ -1,0 +1,12 @@
+- Object Naming Service
+	- Ähnlich DNS
+- Zentraler Internet Dienst
+-
+- Überblick
+	- Gibt Unified Resource Identifiers
+	- Unterstützt nur ((6585636f-a8d2-4ebb-88eb-6e1a66b195e5)) basierende Abfragen
+		- Sicherheitsbedenken, Geschäftsgeheimnisse
+		- Ergo: Nur Info nur Über die Produkt-Klasse, nicht auf das konkrete Produkt
+	- ONS Server speichern keine Daten selbst, sie liefern nur den Link zu den entsprechenden [[EPCglobal/Information Services]] die die Daten gespeichert haben.
+	-
+-

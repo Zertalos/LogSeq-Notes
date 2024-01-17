@@ -1,0 +1,9 @@
+- Beschreibt die Ordnung von Produkten im Regal
+- Compliance Regel für den Verkäufer
+- Hersteller macht Werbung für das Produkt
+	- Dafür Zahlt der Hersteller dem Einzelhändler Geld damit sein Produkt optimal positioniert wird.
+	- Entsprechend wird das durch den Hersteller überprüft
+	- Weiteres Beispiel: Einzel-Eistruhe an der Kasse
+		- Produzent zahlt dafür dass seine Eistruhe an der Kasse platziert wird
+		- Eistruhe darf nur Eis **DIESES** Herstellers beeinhalten
+		-

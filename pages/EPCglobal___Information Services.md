@@ -1,0 +1,12 @@
+- Global: Bereitstellung von Daten über Unternehmen hinweg
+- EPCIS Spezifiziert ein Interface um
+	- EPC bezogene Daten abzufragen
+- Es wird nicht spezifiziert wie Daten zu erfassen sind.
+-
+- EPCIS Repositories store
+	- Vergangene Events
+		- Business Events, keine Reader Events
+	- Erlaubt es z.B. Güter zurückzurufen da klar getrackt ist wo Güter am Ende gelandet sind
+	- Erlaubt Rückverfolgung von Lieferketten und geplanten Absatzmarkt
+		- Stichwort "Drug Pedigree"
+	-

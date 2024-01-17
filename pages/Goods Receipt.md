@@ -1,0 +1,1 @@
+- Nachweis dass Ware korrekt und vollständig angeliefert wurde
