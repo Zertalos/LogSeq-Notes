@@ -1,0 +1,5 @@
+- /
+- Vorlesungs-Info:
+	- Fach: [[UCG]]
+	- Datum der Vorlesung: [[Jan 26th, 2024]]
+	- Foliensatz:
