@@ -8,8 +8,8 @@
 	- Understand Problem
 	- Set Goal
 	- ## Data
-	- Fünf Phasen befassen sich mit der Vorverarbeitung von Daten, um jede Art von Modelltraining und -testing vorzubereiten. 
-	  * Schlechte Daten führen zu einem schlechten Modell.
+	- Fünf Phasen befassen sich mit der Vorverarbeitung von Daten, um jede Art von Modelltraining und -testing vorzubereiten.
+		- Schlechte Daten führen zu einem schlechten Modell.
 	- Generate Data
 		- Wahrheitsdaten schaffen, ggf. neue Sensorik installieren zur Erfassung
 	- Data Labeling
@@ -21,4 +21,6 @@
 	- Split dataset
 		- Wie performant ist das System?
 		- Teilung der Daten in Trainings, Test und Vaildierungsdaten
+	- ## Modeling
+	- Drei Phasen beschäftigen sich mit der Suche nach dem richtigen Modell und der passenden Architektur, geeigneten Hyperparametern und Evaluationsmetriken, um zu lernen, wie gut Ihr Modell tatsächlich ist.
 		-
