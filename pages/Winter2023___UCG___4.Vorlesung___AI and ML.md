@@ -40,4 +40,8 @@
 	- Nicht überwachtes lernen
 		- Keine Labels in Daten
 		- Tradeoff: Labeling nicht nötig - braucht aber mehr Leistung
-		- Cl
+		- Clustering als Beispieleinsatz
+	- Reinforcement Learning
+		- Kein abgeschlossener Datenkorpus
+		- Trail and error verfahren in der Simulation
+			-
