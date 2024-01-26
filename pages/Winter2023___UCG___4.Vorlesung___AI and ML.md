@@ -48,4 +48,4 @@
 			- Durch Score (Bewertung) seiner Aktionen lernt der Agent was Gut und Schlecht it
 		- Hohe Anforderung an Rechenleistung
 - # Klassenbalance
--
+- When training ML models, the data should be equally distributed along their classes. This prevents overfitting and promotes the generalisability of the model to new data. Goal: good performance for predictions with new data
