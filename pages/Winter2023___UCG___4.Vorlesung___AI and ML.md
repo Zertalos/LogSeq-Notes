@@ -35,4 +35,9 @@
 			-
 		- Monitoring
 			- Verfügbarkeit und Performance
-- # Arten von
+- # Arten von Machine Learning
+	- Überwachtes Lernen
+	- Nicht überwachtes lernen
+		- Keine Labels in Daten
+		- Tradeoff: Labeling nicht nötig - braucht aber mehr Leistung
+		-
