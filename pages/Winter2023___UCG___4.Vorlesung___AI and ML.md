@@ -1,0 +1,24 @@
+- Definition von AI / KI schwierig möglich
+- Gibt verschiedene Definitionen
+- Software 1.0 vs Software 2.0
+	- Software 2.0 lernt selbst mit neuen Situationen umzugehen ohne direkt dafür programmiert zu sein
+		- "Selbstlernend"
+- # ML Life Cycle
+	- ## Initialize
+	- Understand Problem
+	- Set Goal
+	- ## Data
+	- Fünf Phasen befassen sich mit der Vorverarbeitung von Daten, um jede Art von Modelltraining und -testing vorzubereiten. 
+	  * Schlechte Daten führen zu einem schlechten Modell.
+	- Generate Data
+		- Wahrheitsdaten schaffen, ggf. neue Sensorik installieren zur Erfassung
+	- Data Labeling
+	- Check Data Plausibility
+		- Sichtprüfung einzelner Ergebnisse
+		- Qualitätsprüfung
+	- Extract data features
+		- Welche Datenmerkmale werden benötigt um das gesetzte Ziel zu erreichen?
+	- Split dataset
+		- Wie performant ist das System?
+		- Teilung der Daten in Trainings, Test und Vaildierungsdaten
+		-
