@@ -47,4 +47,5 @@
 			- Agent kann am Anfang nix und macht fehler
 			- Durch Score (Bewertung) seiner Aktionen lernt der Agent was Gut und Schlecht it
 		- Hohe Anforderung an Rechenleistung
-		-
+- # Klassenbalance
+-
