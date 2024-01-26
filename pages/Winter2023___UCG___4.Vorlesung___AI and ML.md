@@ -6,4 +6,8 @@
 - # ML Life Cycle
 	- Generate Data
 		- Wahrheitsdaten schaffen, ggf. neue Sensorik installieren zur Erfassung
+	- Data Labeling
+	- Check Data Plausibility
+		- Sichtprüfung einzelner Ergebnisse
+		- Qualitätsprüfung
 		-
