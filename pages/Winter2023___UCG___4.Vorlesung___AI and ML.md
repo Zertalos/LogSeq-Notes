@@ -27,4 +27,5 @@
 			- Verschiedene Ansätze erzeugen direkt bessere Ergebnisse (Entscheidungsbäume vs. Neuronales Netz)
 		- Train ML model
 			- Optimierungsfunktionen setzen
-			- Training
+			- Trainingsgeschwindigkei
+		- Evaluate
