@@ -1,4 +1,6 @@
 - Definition von AI / KI schwierig möglich
 - Gibt verschiedene Definitionen
 - Software 1.0 vs Software 2.0
+	- Software 2.0 lernt selbst mit neuen Situationen umzugehen ohne direkt dafür programmiert zu sein
+		- "Selbstlernend"
 	-
