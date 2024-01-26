@@ -23,4 +23,8 @@
 		- Teilung der Daten in Trainings, Test und Vaildierungsdaten
 	- ## Modeling
 	- Drei Phasen beschäftigen sich mit der Suche nach dem richtigen Modell und der passenden Architektur, geeigneten Hyperparametern und Evaluationsmetriken, um zu lernen, wie gut Ihr Modell tatsächlich ist.
-		-
+		- Chosse ML Model
+			- Verschiedene Ansätze erzeugen direkt bessere Ergebnisse (Entscheidungsbäume vs. Neuronales Netz)
+		- Train ML model
+			- Optimierungsfunktionen setzen
+			- Training
