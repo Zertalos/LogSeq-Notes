@@ -32,5 +32,7 @@
 		- Deployment
 			- Erst wenn das Model veröffentlicht ist schafft es einen Mehrwer für den Kunden
 			- Schnittstellen
-			- Verfügbarkeit und Performance
 			-
+		- Monitoring
+			- Verfügbarkeit und Performance
+- # Arten von
