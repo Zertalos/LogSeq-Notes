@@ -1,0 +1,4 @@
+- Definition von AI / KI schwierig möglich
+- Gibt verschiedene Definitionen
+- Software 1.0 vs Software 2.0
+	-
