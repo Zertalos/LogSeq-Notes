@@ -54,4 +54,9 @@
 		- Beispiel: Ein Modell, das sich an jede einzelne Ausnahme in den Trainingsdaten anpasst, könnte an Flexibilität verlieren, um mit Variationen in neuen Daten umzugehen.
 	- Generalisierung: Dies bezieht sich auf die Fähigkeit eines ML-Modells, relevante Ausgaben für Daten zu produzieren, die es noch nie zuvor gesehen hat.
 		- Beispiel: Ein erfolgreich generalisiertes Modell, das auf Bildern trainiert wurde, um Katzen zu identifizieren, sollte in der Lage sein, eine Katze auf einem völlig neuen Bild korrekt zu identifizieren.
-	- Mögliche
+	- Mögliche Lösungen
+		- Undersampling
+			- Entfernen von Datenpunkten der überrepräsentativen Klassen
+		- Oversampling
+			- Hinzufügen von Kopien, oder neuen Daten, im Unterrepräsentativen Klassen
+			-
