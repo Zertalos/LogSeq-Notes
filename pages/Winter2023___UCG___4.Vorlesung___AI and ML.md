@@ -5,9 +5,11 @@
 		- "Selbstlernend"
 - # ML Life Cycle
 	- ## Initialize
+	  collapsed:: true
 		- Understand Problem
 		- Set Goal
 	- ## Data
+	  collapsed:: true
 		- Fünf Phasen befassen sich mit der Vorverarbeitung von Daten, um jede Art von Modelltraining und -testing vorzubereiten.
 			- Schlechte Daten führen zu einem schlechten Modell.
 		- Generate Data
@@ -22,19 +24,21 @@
 			- Wie performant ist das System?
 			- Teilung der Daten in Trainings, Test und Vaildierungsdaten
 	- ## Modeling
-	- Drei Phasen beschäftigen sich mit der Suche nach dem richtigen Modell und der passenden Architektur, geeigneten Hyperparametern und Evaluationsmetriken, um zu lernen, wie gut Ihr Modell tatsächlich ist.
-		- Chosse ML Model
-			- Verschiedene Ansätze erzeugen direkt bessere Ergebnisse (Entscheidungsbäume vs. Neuronales Netz)
-		- Train ML model
-			- Optimierungsfunktionen setzen
-			- Trainingsgeschwindigkei
-		- Evaluate ML model
-		- Deployment
-			- Erst wenn das Model veröffentlicht ist schafft es einen Mehrwer für den Kunden
-			- Schnittstellen
-			-
-		- Monitoring
-			- Verfügbarkeit und Performance
+	  collapsed:: true
+		- Drei Phasen beschäftigen sich mit der Suche nach dem richtigen Modell und der passenden Architektur, geeigneten Hyperparametern und Evaluationsmetriken, um zu lernen, wie gut Ihr Modell tatsächlich ist.
+		  collapsed:: true
+			- Chosse ML Model
+				- Verschiedene Ansätze erzeugen direkt bessere Ergebnisse (Entscheidungsbäume vs. Neuronales Netz)
+			- Train ML model
+				- Optimierungsfunktionen setzen
+				- Trainingsgeschwindigkei
+			- Evaluate ML model
+			- Deployment
+				- Erst wenn das Model veröffentlicht ist schafft es einen Mehrwer für den Kunden
+				- Schnittstellen
+				-
+			- Monitoring
+				- Verfügbarkeit und Performance
 - # Arten von Machine Learning
 	- Überwachtes Lernen
 	- Nicht überwachtes lernen
