@@ -40,4 +40,4 @@
 	- Nicht überwachtes lernen
 		- Keine Labels in Daten
 		- Tradeoff: Labeling nicht nötig - braucht aber mehr Leistung
-		-
+		- Cl
