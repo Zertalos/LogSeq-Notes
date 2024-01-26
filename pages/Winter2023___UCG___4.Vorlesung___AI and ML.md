@@ -5,22 +5,22 @@
 		- "Selbstlernend"
 - # ML Life Cycle
 	- ## Initialize
-	- Understand Problem
-	- Set Goal
+		- Understand Problem
+		- Set Goal
 	- ## Data
-	- Fünf Phasen befassen sich mit der Vorverarbeitung von Daten, um jede Art von Modelltraining und -testing vorzubereiten.
-		- Schlechte Daten führen zu einem schlechten Modell.
-	- Generate Data
-		- Wahrheitsdaten schaffen, ggf. neue Sensorik installieren zur Erfassung
-	- Data Labeling
-	- Check Data Plausibility
-		- Sichtprüfung einzelner Ergebnisse
-		- Qualitätsprüfung
-	- Extract data features
-		- Welche Datenmerkmale werden benötigt um das gesetzte Ziel zu erreichen?
-	- Split dataset
-		- Wie performant ist das System?
-		- Teilung der Daten in Trainings, Test und Vaildierungsdaten
+		- Fünf Phasen befassen sich mit der Vorverarbeitung von Daten, um jede Art von Modelltraining und -testing vorzubereiten.
+			- Schlechte Daten führen zu einem schlechten Modell.
+		- Generate Data
+			- Wahrheitsdaten schaffen, ggf. neue Sensorik installieren zur Erfassung
+		- Data Labeling
+		- Check Data Plausibility
+			- Sichtprüfung einzelner Ergebnisse
+			- Qualitätsprüfung
+		- Extract data features
+			- Welche Datenmerkmale werden benötigt um das gesetzte Ziel zu erreichen?
+		- Split dataset
+			- Wie performant ist das System?
+			- Teilung der Daten in Trainings, Test und Vaildierungsdaten
 	- ## Modeling
 	- Drei Phasen beschäftigen sich mit der Suche nach dem richtigen Modell und der passenden Architektur, geeigneten Hyperparametern und Evaluationsmetriken, um zu lernen, wie gut Ihr Modell tatsächlich ist.
 		- Chosse ML Model
@@ -28,4 +28,9 @@
 		- Train ML model
 			- Optimierungsfunktionen setzen
 			- Trainingsgeschwindigkei
-		- Evaluate
+		- Evaluate ML model
+		- Deployment
+			- Erst wenn das Model veröffentlicht ist schafft es einen Mehrwer für den Kunden
+			- Schnittstellen
+			- Verfügbarkeit und Performance
+			-
