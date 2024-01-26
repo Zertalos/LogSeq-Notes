@@ -48,9 +48,10 @@
 			- Durch Score (Bewertung) seiner Aktionen lernt der Agent was Gut und Schlecht it
 		- Hohe Anforderung an Rechenleistung
 - # Klassenbalance
-- Beim Training von ML-Modellen sollten die Daten gleichmäßig auf ihre Klassen verteilt sein. Dies verhindert ein Überanpassen und fördert die Generalisierbarkeit des Modells auf neue Daten. Ziel: gute Leistung bei Vorhersagen mit neuen Daten.
-	- Beispiel: Angenommen, man trainiert ein Modell zur Vorhersage von Wetterereignissen und 90% der Trainingsdaten sind sonnige Tage. Das Modell könnte Schwierigkeiten haben, korrekt vorherzusagen, ob es regnet, schneit etc., weil es meisten sonnige Bedingungen gesehen hat.
-- Überanpassung (Overfitting): Dies ist ein Begriff aus dem Maschinenlernen, der das Phänomen beschreibt, bei dem ein Modell die Trainingsdaten zu genau lernt und daher Probleme hat, auf neuen, nie gesehenen Daten allgemein zu sein.
-	- Beispiel: Ein Modell, das sich an jede einzelne Ausnahme in den Trainingsdaten anpasst, könnte an Flexibilität verlieren, um mit Variationen in neuen Daten umzugehen.
-- Generalisierung: Dies bezieht sich auf die Fähigkeit eines ML-Modells, relevante Ausgaben für Daten zu produzieren, die es noch nie zuvor gesehen hat.
-	- Beispiel: Ein erfolgreich generalisiertes Modell, das auf Bildern trainiert wurde, um Katzen zu identifizieren, sollte in der Lage sein, eine Katze auf einem völlig neuen Bild korrekt zu identifizieren.
+	- Beim Training von ML-Modellen sollten die Daten gleichmäßig auf ihre Klassen verteilt sein. Dies verhindert ein Überanpassen und fördert die Generalisierbarkeit des Modells auf neue Daten. Ziel: gute Leistung bei Vorhersagen mit neuen Daten.
+		- Beispiel: Angenommen, man trainiert ein Modell zur Vorhersage von Wetterereignissen und 90% der Trainingsdaten sind sonnige Tage. Das Modell könnte Schwierigkeiten haben, korrekt vorherzusagen, ob es regnet, schneit etc., weil es meisten sonnige Bedingungen gesehen hat.
+	- Überanpassung (Overfitting): Dies ist ein Begriff aus dem Maschinenlernen, der das Phänomen beschreibt, bei dem ein Modell die Trainingsdaten zu genau lernt und daher Probleme hat, auf neuen, nie gesehenen Daten allgemein zu sein.
+		- Beispiel: Ein Modell, das sich an jede einzelne Ausnahme in den Trainingsdaten anpasst, könnte an Flexibilität verlieren, um mit Variationen in neuen Daten umzugehen.
+	- Generalisierung: Dies bezieht sich auf die Fähigkeit eines ML-Modells, relevante Ausgaben für Daten zu produzieren, die es noch nie zuvor gesehen hat.
+		- Beispiel: Ein erfolgreich generalisiertes Modell, das auf Bildern trainiert wurde, um Katzen zu identifizieren, sollte in der Lage sein, eine Katze auf einem völlig neuen Bild korrekt zu identifizieren.
+	- Mögliche
