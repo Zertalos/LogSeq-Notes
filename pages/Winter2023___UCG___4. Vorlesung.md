@@ -1,5 +1,5 @@
-- /
 - Vorlesungs-Info:
 	- Fach: [[UCG]]
 	- Datum der Vorlesung: [[Jan 26th, 2024]]
-	- Foliensatz:
+	- Foliensatz: ![Ubicomp-Biz-2023-Part-IV-LH.pdf](../assets/Ubicomp-Biz-2023-Part-IV-LH_1706261026330_0.pdf)
+-
