@@ -3,4 +3,7 @@
 - Software 1.0 vs Software 2.0
 	- Software 2.0 lernt selbst mit neuen Situationen umzugehen ohne direkt dafür programmiert zu sein
 		- "Selbstlernend"
-	-
+- # ML Life Cycle
+	- Generate Data
+		- Wahrheitsdaten schaffen, ggf. neue Sensorik installieren zur Erfassung
+		-
