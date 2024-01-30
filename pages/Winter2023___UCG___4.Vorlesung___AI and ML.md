@@ -40,6 +40,7 @@
 			- Monitoring
 				- Verfügbarkeit und Performance
 - # Arten von Machine Learning
+  collapsed:: true
 	- Überwachtes Lernen
 	- Nicht überwachtes lernen
 		- Keine Labels in Daten
@@ -52,6 +53,7 @@
 			- Durch Score (Bewertung) seiner Aktionen lernt der Agent was Gut und Schlecht it
 		- Hohe Anforderung an Rechenleistung
 - # Klassenbalance
+  collapsed:: true
 	- Beim Training von ML-Modellen sollten die Daten gleichmäßig auf ihre Klassen verteilt sein. Dies verhindert ein Überanpassen und fördert die Generalisierbarkeit des Modells auf neue Daten. Ziel: gute Leistung bei Vorhersagen mit neuen Daten.
 		- Beispiel: Angenommen, man trainiert ein Modell zur Vorhersage von Wetterereignissen und 90% der Trainingsdaten sind sonnige Tage. Das Modell könnte Schwierigkeiten haben, korrekt vorherzusagen, ob es regnet, schneit etc., weil es meisten sonnige Bedingungen gesehen hat.
 	- Überanpassung (Overfitting): Dies ist ein Begriff aus dem Maschinenlernen, der das Phänomen beschreibt, bei dem ein Modell die Trainingsdaten zu genau lernt und daher Probleme hat, auf neuen, nie gesehenen Daten allgemein zu sein.
