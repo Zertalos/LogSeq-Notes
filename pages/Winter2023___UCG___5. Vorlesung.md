@@ -7,14 +7,13 @@
 	- Busniess-Case: Autos verursachen 30% ihrer Abgase beim Anfahren (z.B. an der Ampel)
 	- Ampeln melden Daten an die Fahrtleitstelle
 	- ## Stadtziele
-	- - Verkehr verteilen, um Staus, insbesondere zu Stoßzeiten, zu reduzieren / vermeiden
-	    - Fahrer / Pendler dazu motivieren, alternative Routen oder Verkehrsmittel (Fahrrad, öffentliche Verkehrsmittel, Fahrgemeinschaften) in Betracht zu ziehen
-	    - Verbesserung des gesamten Verkehrsflusses
-	    
-	  - Funktionen der Verkehrs-APP
-	    - Fahrern Echtzeitinformationen zum Verkehrsfluss bereitstellen
-	    - Informationen über Straßenbauarbeiten bereitstellen, um eine alternative Route zu ermöglichen
-	    - Angebot alternativer Mobilitätsdienste (z.B. Fahrradverleihservices, öffentlicher Verkehr)
+		- Verkehr verteilen, um Staus, insbesondere zu Stoßzeiten, zu reduzieren / vermeiden
+		- Fahrer / Pendler dazu motivieren, alternative Routen oder Verkehrsmittel (Fahrrad, öffentliche Verkehrsmittel, Fahrgemeinschaften) in Betracht zu ziehen
+		- Verbesserung des gesamten Verkehrsflusses
+	- ## Funktionen der Verkehrs-APP
+		- Fahrern Echtzeitinformationen zum Verkehrsfluss bereitstellen
+		- Informationen über Straßenbauarbeiten bereitstellen, um eine alternative Route zu ermöglichen
+		- Angebot alternativer Mobilitätsdienste (z.B. Fahrradverleihservices, öffentlicher Verkehr)
 	-
 	-
 -
