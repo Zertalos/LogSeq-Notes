@@ -16,6 +16,7 @@
 		- Angebot alternativer Mobilitätsdienste (z.B. Fahrradverleihservices, öffentlicher Verkehr)
 	- => Was ist mit Autofahrern die die App nicht nutzen, und durch "schlauere" Autofahrer "ausgebremst" werden?
 		- Verringerte Akzeptanz
-			- Kann durch Plattooning verhindert
+			- Kann durch Plattooning verhindert werden (Lemming-Effekt)
+		-
 		-
 -
