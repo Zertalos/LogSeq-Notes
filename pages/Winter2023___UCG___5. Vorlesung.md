@@ -4,5 +4,6 @@
 	- Folien: ![Ubicomp-Biz-2023-Part-V-LH.pdf](../assets/Ubicomp-Biz-2023-Part-V-LH_1707471297157_0.pdf)
 -
 - # Traffic App
+	- Busniess-Case: Autos verursachen 30% ihrer Abgase beim Anfahren (z.B. an der Ampel)
 	-
 -
