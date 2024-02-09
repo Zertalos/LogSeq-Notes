@@ -6,7 +6,17 @@
 - # Traffic App
 	- Busniess-Case: Autos verursachen 30% ihrer Abgase beim Anfahren (z.B. an der Ampel)
 	- Ampeln melden Daten an die Fahrtleitstelle
-	- Motivation / drivers for Cities• Traffic counts for significant air pollution (e.g., NOx, PM) and climate change (e.g., CO2)• Improving the traffic flow at signal-based intersection could reduce PM by 27%, NOx up to 33%, and CO2 by 15% according to reports of the automotive community1• Avoiding surpassing the regulatory thresholds prevents the City to pay fines.2• Improving Air Quality to protect the health of citizens against diseases such as asthma.3 Motivation / drivers for the automotive Industry• Passenger cars are responsible for around 12% of CO2 emission• Automotive fleets need to adhere to EU Directive of 95g CO2/km4 to avoid paying fines(excess emissions premium) for each car registered• Improve driver experiences in times of Digital /Social Media by providing estimates of signal phase change (= waiting time at red signal)• Improve safety with respect to approaching intersections, e.g., managing speed and braking assistance
+	- ### Motivation / Treiber für Städte
+		- Verkehr verursacht erhebliche Luftverschmutzung (z.B. NOx, PM) und Klimawandel (z.B. CO2)
+		  * Verbesserung des Verkehrsflusses an signalgesteuerten Kreuzungen könnte PM um 27%, NOx um bis zu 33% und CO2 um 15% reduzieren
+		  * Vermeidung von Überschreitungen der gesetzlichen Grenzwerte verhindert Bußgelder der Stadt
+		  * Verbesserung der Luftqualität zum Schutz der Gesundheit der Bürger gegen Krankheiten wie Asthma
+		  
+		  ### Motivation / Treiber für die Automobilindustrie:
+		  * Personenwagen sind für rund 12% der CO2-Emissionen verantwortlich
+		  * Automobilflotten müssen die EU-Richtlinie von 95g CO2/km einhalten, um Bußgelder (Überschuss-Emissionsprämie) pro registriertem Auto zu vermeiden
+		  * Verbesserung des Fahrerlebnisses in Zeiten von Digital / Social Media durch Bereitstellung von Schätzungen der Signalphasenänderung (= Wartezeit bei rotem Signal)
+		  * Verbesserung der Sicherheit bei Annäherung an Kreuzungen, z.B. Geschwindigkeitsmanagement und Bremsassistent
 	- ## Stadtziele
 		- Verkehr verteilen, um Staus, insbesondere zu Stoßzeiten, zu reduzieren / vermeiden
 		- Fahrer / Pendler dazu motivieren, alternative Routen oder Verkehrsmittel (Fahrrad, öffentliche Verkehrsmittel, Fahrgemeinschaften) in Betracht zu ziehen
