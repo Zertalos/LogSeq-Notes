@@ -14,6 +14,8 @@
 		- Fahrern Echtzeitinformationen zum Verkehrsfluss bereitstellen
 		- Informationen über Straßenbauarbeiten bereitstellen, um eine alternative Route zu ermöglichen
 		- Angebot alternativer Mobilitätsdienste (z.B. Fahrradverleihservices, öffentlicher Verkehr)
-	-
-	-
+	- => Was ist mit Autofahrern die die App nicht nutzen, und durch "schlauere" Autofahrer "ausgebremst" werden?
+		- Verringerte Akzeptanz
+			- Kann durch Plattooning verhindert
+		-
 -
