@@ -44,7 +44,7 @@
 		- Google Maps leitet Verkehr an Werbepartner vorbei (Vermutung)
 		- Steigerung der Umsätze und damit Belebung des Einzelhandels
 	- ## ECOMAT
-		- **Traffic Light Assistance APP [ui!] ECOMAT**
+		- **Traffic Light Assistance APP ECOMAT**
 			- Bereitstellung von Ampelinformationen über eine App
 			- Echtzeitdatenverbindung zum Verkehrsmanagementzentrum
 		- **Städtische Datenplattform [ui!] UrbanPulse**
