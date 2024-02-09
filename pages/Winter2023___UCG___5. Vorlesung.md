@@ -73,5 +73,9 @@
 		- Es ermöglicht es verschiedenen Akteuren (wie z.B. Transportunternehmen, Stadtverwaltungen, Technologieanbietern), Daten über Mobilität zu teilen und zu nutzen.
 		- Es kann dazu beitragen, Verkehrssysteme effizienter zu gestalten, Staus zu reduzieren und den Übergang zu nachhaltigerer Mobilität zu fördern.
 		- Zusätzlich kann es neue Geschäftsmöglichkeiten schaffen und dazu beitragen, Innovationen im Bereich der Mobilität zu fördern.
-		- Datenschutz und Datensicherheit sind zentrale Aspekte des Mobility-Dataspace, um den Schutz persönlicher Informationen zu gewährleisten.
-	-
+		- Datenschutz und Datensicherheit sind zentrale Aspekte des Mobility-Dataspace, um den Schutz persönlicher Informationen zu gewährleisten
+	- Continental eHorizon ermöglicht Fahrzeugen eine erweiterte Sicht auf die Straße, über Sensorvision und um Ecken hinaus.
+		- Ziel ist eine erhöhte Fahrersicherheit, Komfort, Effizienz und Umweltverträglichkeit.
+		  - TLA - Verkehrslichtassistent basiert auf Vorhersagen von Verkehrssignalwechsel.
+		  - Verwendet Branchenstandards SPaT / MAP2.
+		  - Bietet einen optimalen Geschwindigkeitsberatungsservice für grünes Licht.
