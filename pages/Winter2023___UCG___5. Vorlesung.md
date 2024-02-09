@@ -17,14 +17,15 @@
 	- => Was ist mit Autofahrern die die App nicht nutzen, und durch "schlauere" Autofahrer "ausgebremst" werden?
 		- Verringerte Akzeptanz
 			- Kann durch Plattooning verhindert werden (Lemming-Effekt)
-	- Verkehrsampeln sind Signaleinrichtungen, die an Straßenkreuzungen, Fußgängerübergängen und anderen Standorten positioniert sind, um den Verkehrsfluss zu regeln.
-	- Ein adaptives Verkehrssteuerungssystem (ATCS) ist eine Verkehrsmanagementstrategie, bei der die Ampelschaltzeiten sich anpassten oder sich an die tatsächliche Verkehrsnachfrage anpassen.
-	- Dies wird durch ein adaptives Verkehrssteuerungssystem erreicht, das sowohl Hardware als auch Software umfasst
-	     - Es wird auch als Verkehrsmanagementsystem (TMS) bezeichnet.
-	  - (Verkehrsampel) Detektoren erkennen die Nachfrage nach Verkehrsteilnehmern (Fahrzeuge, Fußgänger, Fahrräder, öffentliche Verkehrsmittel).
-	     - Beispiele hierfür sind:
-	     - Induktive Schleife
-	     - Video-Bildprozessor
-	     - Schalter (für Fussgänger)
-		-
+	- ## Traffic Light Infrastructure
+		- Verkehrsampeln sind Signaleinrichtungen, die an Straßenkreuzungen, Fußgängerübergängen und anderen Standorten positioniert sind, um den Verkehrsfluss zu regeln.
+		- Ein adaptives Verkehrssteuerungssystem (ATCS) ist eine Verkehrsmanagementstrategie, bei der die Ampelschaltzeiten sich anpassten oder sich an die tatsächliche Verkehrsnachfrage anpassen.
+		- Dies wird durch ein adaptives Verkehrssteuerungssystem erreicht, das sowohl Hardware als auch Software umfasst
+		- Es wird auch als Verkehrsmanagementsystem (TMS) bezeichnet
+		- (Verkehrsampel) Detektoren erkennen die Nachfrage nach Verkehrsteilnehmern (Fahrzeuge, Fußgänger, Fahrräder, öffentliche Verkehrsmittel).
+			- Beispiele hierfür sind:
+				- Induktive Schleife
+				- Video-Bildprozessor
+				- Schalter (für Fussgänger)
+			-
 -
