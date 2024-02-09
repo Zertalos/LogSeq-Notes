@@ -31,4 +31,7 @@
 		-
 	- ## Realtime TRAFFIC APP
 		- Verbindung von Verkehr und Werbung
+		- Google Maps leitet Verkehr an Werbepartner vorbei (Vermutung)
+		- Steigerung der Umsätze und
+	-
 		-
