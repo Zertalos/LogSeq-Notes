@@ -76,6 +76,6 @@
 		- Datenschutz und Datensicherheit sind zentrale Aspekte des Mobility-Dataspace, um den Schutz persönlicher Informationen zu gewährleisten
 	- Continental eHorizon ermöglicht Fahrzeugen eine erweiterte Sicht auf die Straße, über Sensorvision und um Ecken hinaus.
 		- Ziel ist eine erhöhte Fahrersicherheit, Komfort, Effizienz und Umweltverträglichkeit.
-		  - TLA - Verkehrslichtassistent basiert auf Vorhersagen von Verkehrssignalwechsel.
-		  - Verwendet Branchenstandards SPaT / MAP2.
-		  - Bietet einen optimalen Geschwindigkeitsberatungsservice für grünes Licht.
+		- TLA - Verkehrslichtassistent basiert auf Vorhersagen von Verkehrssignalwechsel.
+		- Verwendet Branchenstandards [[SPaT / MAP2]] .
+		- Bietet einen optimalen Geschwindigkeitsberatungsservice für grünes Licht.
