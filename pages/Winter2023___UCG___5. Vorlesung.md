@@ -34,4 +34,21 @@
 		- Google Maps leitet Verkehr an Werbepartner vorbei (Vermutung)
 		- Steigerung der Umsätze und damit Belebung des Einzelhandels
 	- ## ECOMAT
-	- Traffic Light Assistance APP [ui!] ECOMAT Provision of traffic light information via an APP• Real-time data connection to the traffic management center• Urban data platform [ui!] UrbanPulse predicts traffic signals• The driver receives information and recommendations in the smartphone app The Driver• uses waiting times at traffic lights with ease• anticipates and navigates in green waves• saves fuel, protects the environment The City• supports its citizens in environmentally friendly driving• involves citizens in improving traffic flow• extends its tools for environmentally oriented traffic management https://ecomat.ui.city/ More Information about the APP (in German):
+		- **Traffic Light Assistance APP [ui!] ECOMAT**
+		      - Bereitstellung von Ampelinformationen über eine App
+		      - Echtzeitdatenverbindung zum Verkehrsmanagementzentrum
+		  
+		  - **Städtische Datenplattform [ui!] UrbanPulse**
+		      - Vorhersage von Verkehrssignalen
+		  
+		  - **Der Fahrer**
+		     - Nutzung von Wartezeiten an Ampeln mit Leichtigkeit
+		     - Antizipiert und navigiert in grünen Wellen
+		     - Spart Kraftstoff, schützt die Umwelt
+		  
+		  - **Die Stadt**
+		     - Unterstützt ihre Bürger beim umweltfreundlichen Fahren
+		     - Beteiligt Bürger an der Verbesserung des Verkehrsflusses
+		     - Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
+		  
+		  Weitere Informationen über die App finden Sie hier: [ECOMAT](https://ecomat.ui.city/)
