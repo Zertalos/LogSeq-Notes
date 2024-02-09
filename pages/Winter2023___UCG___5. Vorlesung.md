@@ -8,15 +8,14 @@
 	- Ampeln melden Daten an die Fahrtleitstelle
 	- ### Motivation / Treiber für Städte
 		- Verkehr verursacht erhebliche Luftverschmutzung (z.B. NOx, PM) und Klimawandel (z.B. CO2)
-		  * Verbesserung des Verkehrsflusses an signalgesteuerten Kreuzungen könnte PM um 27%, NOx um bis zu 33% und CO2 um 15% reduzieren
-		  * Vermeidung von Überschreitungen der gesetzlichen Grenzwerte verhindert Bußgelder der Stadt
-		  * Verbesserung der Luftqualität zum Schutz der Gesundheit der Bürger gegen Krankheiten wie Asthma
-		  
-		  ### Motivation / Treiber für die Automobilindustrie:
-		  * Personenwagen sind für rund 12% der CO2-Emissionen verantwortlich
-		  * Automobilflotten müssen die EU-Richtlinie von 95g CO2/km einhalten, um Bußgelder (Überschuss-Emissionsprämie) pro registriertem Auto zu vermeiden
-		  * Verbesserung des Fahrerlebnisses in Zeiten von Digital / Social Media durch Bereitstellung von Schätzungen der Signalphasenänderung (= Wartezeit bei rotem Signal)
-		  * Verbesserung der Sicherheit bei Annäherung an Kreuzungen, z.B. Geschwindigkeitsmanagement und Bremsassistent
+		- Verbesserung des Verkehrsflusses an signalgesteuerten Kreuzungen könnte PM um 27%, NOx um bis zu 33% und CO2 um 15% reduzieren
+		- Vermeidung von Überschreitungen der gesetzlichen Grenzwerte verhindert Bußgelder der Stadt
+		- Verbesserung der Luftqualität zum Schutz der Gesundheit der Bürger gegen Krankheiten wie Asthma
+	- ### Motivation / Treiber für die Automobilindustrie:
+		- Personenwagen sind für rund 12% der CO2-Emissionen verantwortlich
+		- Automobilflotten müssen die EU-Richtlinie von 95g CO2/km einhalten, um Bußgelder (Überschuss-Emissionsprämie) pro registriertem Auto zu vermeiden
+		- Verbesserung des Fahrerlebnisses in Zeiten von Digital / Social Media durch Bereitstellung von Schätzungen der Signalphasenänderung (= Wartezeit bei rotem Signal)
+		- Verbesserung der Sicherheit bei Annäherung an Kreuzungen, z.B. Geschwindigkeitsmanagement und Bremsassistent
 	- ## Stadtziele
 		- Verkehr verteilen, um Staus, insbesondere zu Stoßzeiten, zu reduzieren / vermeiden
 		- Fahrer / Pendler dazu motivieren, alternative Routen oder Verkehrsmittel (Fahrrad, öffentliche Verkehrsmittel, Fahrgemeinschaften) in Betracht zu ziehen
