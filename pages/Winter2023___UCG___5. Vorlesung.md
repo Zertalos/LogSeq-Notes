@@ -17,6 +17,14 @@
 	- => Was ist mit Autofahrern die die App nicht nutzen, und durch "schlauere" Autofahrer "ausgebremst" werden?
 		- Verringerte Akzeptanz
 			- Kann durch Plattooning verhindert werden (Lemming-Effekt)
-	- Traffic Light / Traffic Signal• are signaling devices positioned at road intersections, pedestrian crossings, and other locations to control flows of traffic. Adaptive traffic control system (ATCS)• is a traffic management strategy in which traffic signal timing changes, or adapts, based on actual traffic demand.• This is accomplished using an adaptive traffic control system consisting of both hardware and software• Also called Traffic Management Systems (TMS)(Traffic Signal) Detectors• detects demand of traffic participants (vehicles, pedestrians, bikes, public transport)• Examples include:• Inductive Loop• Video Image Processor• Switch (for pedestrians)
+	- Verkehrsampeln sind Signaleinrichtungen, die an Straßenkreuzungen, Fußgängerübergängen und anderen Standorten positioniert sind, um den Verkehrsfluss zu regeln.
+	- Ein adaptives Verkehrssteuerungssystem (ATCS) ist eine Verkehrsmanagementstrategie, bei der die Ampelschaltzeiten sich anpassten oder sich an die tatsächliche Verkehrsnachfrage anpassen.
+	- Dies wird durch ein adaptives Verkehrssteuerungssystem erreicht, das sowohl Hardware als auch Software umfasst
+	     - Es wird auch als Verkehrsmanagementsystem (TMS) bezeichnet.
+	  - (Verkehrsampel) Detektoren erkennen die Nachfrage nach Verkehrsteilnehmern (Fahrzeuge, Fußgänger, Fahrräder, öffentliche Verkehrsmittel).
+	     - Beispiele hierfür sind:
+	     - Induktive Schleife
+	     - Video-Bildprozessor
+	     - Schalter (für Fussgänger)
 		-
 -
