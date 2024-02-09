@@ -6,6 +6,7 @@
 - # Traffic App
 	- Busniess-Case: Autos verursachen 30% ihrer Abgase beim Anfahren (z.B. an der Ampel)
 	- Ampeln melden Daten an die Fahrtleitstelle
+	- Motivation / drivers for Cities• Traffic counts for significant air pollution (e.g., NOx, PM) and climate change (e.g., CO2)• Improving the traffic flow at signal-based intersection could reduce PM by 27%, NOx up to 33%, and CO2 by 15% according to reports of the automotive community1• Avoiding surpassing the regulatory thresholds prevents the City to pay fines.2• Improving Air Quality to protect the health of citizens against diseases such as asthma.3 Motivation / drivers for the automotive Industry• Passenger cars are responsible for around 12% of CO2 emission• Automotive fleets need to adhere to EU Directive of 95g CO2/km4 to avoid paying fines(excess emissions premium) for each car registered• Improve driver experiences in times of Digital /Social Media by providing estimates of signal phase change (= waiting time at red signal)• Improve safety with respect to approaching intersections, e.g., managing speed and braking assistance
 	- ## Stadtziele
 		- Verkehr verteilen, um Staus, insbesondere zu Stoßzeiten, zu reduzieren / vermeiden
 		- Fahrer / Pendler dazu motivieren, alternative Routen oder Verkehrsmittel (Fahrrad, öffentliche Verkehrsmittel, Fahrgemeinschaften) in Betracht zu ziehen
