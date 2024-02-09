@@ -1,1 +1,3 @@
-- /templ
+- Vorlesungs-Info:
+	- Fach: [[UCG]]
+	- Datum der Vorlesung: [[Feb 9th, 2024]]
