@@ -35,20 +35,17 @@
 		- Steigerung der Umsätze und damit Belebung des Einzelhandels
 	- ## ECOMAT
 		- **Traffic Light Assistance APP [ui!] ECOMAT**
-		      - Bereitstellung von Ampelinformationen über eine App
-		      - Echtzeitdatenverbindung zum Verkehrsmanagementzentrum
-		  
-		  - **Städtische Datenplattform [ui!] UrbanPulse**
-		      - Vorhersage von Verkehrssignalen
-		  
-		  - **Der Fahrer**
-		     - Nutzung von Wartezeiten an Ampeln mit Leichtigkeit
-		     - Antizipiert und navigiert in grünen Wellen
-		     - Spart Kraftstoff, schützt die Umwelt
-		  
-		  - **Die Stadt**
-		     - Unterstützt ihre Bürger beim umweltfreundlichen Fahren
-		     - Beteiligt Bürger an der Verbesserung des Verkehrsflusses
-		     - Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
-		  
-		  Weitere Informationen über die App finden Sie hier: [ECOMAT](https://ecomat.ui.city/)
+			- Bereitstellung von Ampelinformationen über eine App
+			- Echtzeitdatenverbindung zum Verkehrsmanagementzentrum
+		- **Städtische Datenplattform [ui!] UrbanPulse**
+			- Vorhersage von Verkehrssignalen
+		- **Der Fahrer**
+			- Nutzung von Wartezeiten an Ampeln mit Leichtigkeit
+			- Antizipiert und navigiert in grünen Wellen
+				- Spart Kraftstoff, schützt die Umwelt
+		- **Die Stadt**
+			- Unterstützt ihre Bürger beim umweltfreundlichen Fahren
+			- Beteiligt Bürger an der Verbesserung des Verkehrsflusses
+			     - Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
+			  
+			  Weitere Informationen über die App finden Sie hier: [ECOMAT](https://ecomat.ui.city/)
