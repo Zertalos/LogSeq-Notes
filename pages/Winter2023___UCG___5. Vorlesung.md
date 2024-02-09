@@ -29,4 +29,6 @@
 				- Schalter (für Fussgänger)
 				- TODO: Das hier auslagern
 		-
-	- ## Real-T
+	- ## Realtime TRAFFIC APP
+		- Verbindung von Verkehr und Werbung
+		-
