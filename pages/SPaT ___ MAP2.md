@@ -1,0 +1,5 @@
+- SPat / MAP2 ist ein Datenstandard, der für die effiziente Speicherung und Verwaltung von Satellitenbildern entwickelt wurde.
+- Er ermöglicht eine bildorientierte Bearbeitung und Verarbeitung von Satellitendaten.
+- Der Standard ist besonders nützlich für kartographische Anwendungen und Geo-Informationssysteme.
+- Er bietet eine hohe Kompression ohne sichtbaren Qualitätsverlust, was zu einer erheblichen Speicherplatzersparnis führt.
+- SPat / MAP2 ermöglicht zudem eine schnelle und effiziente Suche und den Zugang zu Satellitenbildern.
