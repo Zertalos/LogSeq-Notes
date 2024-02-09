@@ -17,6 +17,6 @@
 	- => Was ist mit Autofahrern die die App nicht nutzen, und durch "schlauere" Autofahrer "ausgebremst" werden?
 		- Verringerte Akzeptanz
 			- Kann durch Plattooning verhindert werden (Lemming-Effekt)
-		-
+	- Traffic Light / Traffic Signal• are signaling devices positioned at road intersections, pedestrian crossings, and other locations to control flows of traffic. Adaptive traffic control system (ATCS)• is a traffic management strategy in which traffic signal timing changes, or adapts, based on actual traffic demand.• This is accomplished using an adaptive traffic control system consisting of both hardware and software• Also called Traffic Management Systems (TMS)(Traffic Signal) Detectors• detects demand of traffic participants (vehicles, pedestrians, bikes, public transport)• Examples include:• Inductive Loop• Video Image Processor• Switch (for pedestrians)
 		-
 -
