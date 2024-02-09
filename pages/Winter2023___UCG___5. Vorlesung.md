@@ -68,3 +68,10 @@
 		- Außerdem gibt es Bedenken hinsichtlich Datensicherheit und Datenschutz. Da Car2Car-Kommunikation eine ständige Übertragung von Daten erfordert, sind die Fahrzeuge potenziellen Hackerangriffen ausgesetzt.
 		- Schließlich gibt es Alternativen wie Car-to-X-Technologien (Car-to-Infrastructure, Car-to-Pedestrian usw.), die nicht auf andere Fahrzeuge angewiesen sind und daher als praktikabler eingestuft werden. Diese Technologien können zudem Informationen über die Verkehrssituation oder die Infrastruktur bereitstellen, die Car2Car-Kommunikation nicht bieten kann.
 	- Mobility-Dataspace
+		- Der Mobility-Dataspace ist ein Konzept, das den Austausch und die Nutzung von Mobilitätsdaten fördert und vereinfacht.
+		- Diese Plattform bietet eine offene und sichere Umgebung für Datenerzeuger und -nutzer.
+		- Es ermöglicht es verschiedenen Akteuren (wie z.B. Transportunternehmen, Stadtverwaltungen, Technologieanbietern), Daten über Mobilität zu teilen und zu nutzen.
+		- Es kann dazu beitragen, Verkehrssysteme effizienter zu gestalten, Staus zu reduzieren und den Übergang zu nachhaltigerer Mobilität zu fördern.
+		- Zusätzlich kann es neue Geschäftsmöglichkeiten schaffen und dazu beitragen, Innovationen im Bereich der Mobilität zu fördern.
+		- Datenschutz und Datensicherheit sind zentrale Aspekte des Mobility-Dataspace, um den Schutz persönlicher Informationen zu gewährleisten.
+	-
