@@ -27,5 +27,6 @@
 				- Induktive Schleife
 				- Video-Bildprozessor
 				- Schalter (für Fussgänger)
-			-
+				- TODO: Das hier auslagern
+		-
 -
