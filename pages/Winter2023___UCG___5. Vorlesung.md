@@ -46,6 +46,5 @@
 		- **Die Stadt**
 			- Unterstützt ihre Bürger beim umweltfreundlichen Fahren
 			- Beteiligt Bürger an der Verbesserung des Verkehrsflusses
-			     - Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
-			  
-			  Weitere Informationen über die App finden Sie hier: [ECOMAT](https://ecomat.ui.city/)
+			- Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
+	-
