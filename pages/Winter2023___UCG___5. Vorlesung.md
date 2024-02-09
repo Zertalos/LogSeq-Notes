@@ -5,5 +5,8 @@
 -
 - # Traffic App
 	- Busniess-Case: Autos verursachen 30% ihrer Abgase beim Anfahren (z.B. an der Ampel)
+	- Ampeln melden Daten an die Fahrtleitstelle
+	- Objectives of the city• Distribute traffic to reduce / avoid traffic jam situations especially at high peak time, e.g., during commute hours• Motivate drivers / commuters to consider alternate routes or mobility modalities(bike, public transport, ride sharing)• Improve overall traffic flow Traffic APP functionality• Provide real-time traffic flow information to drivers• Provide insights on road constructions to allow for alternating routing• Offer alternate mobility services (e.g., bike sharing services, public transport)
+	-
 	-
 -
