@@ -47,7 +47,7 @@
 		- **Traffic Light Assistance APP ECOMAT**
 			- Bereitstellung von Ampelinformationen über eine App
 			- Echtzeitdatenverbindung zum Verkehrsmanagementzentrum
-		- **Städtische Datenplattform [ui!] UrbanPulse**
+		- **Städtische Datenplattform UrbanPulse**
 			- Vorhersage von Verkehrssignalen
 		- **Der Fahrer**
 			- Nutzung von Wartezeiten an Ampeln mit Leichtigkeit
@@ -58,3 +58,4 @@
 			- Beteiligt Bürger an der Verbesserung des Verkehrsflusses
 			- Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
 	-
+-
