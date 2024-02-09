@@ -61,13 +61,10 @@
 - # Electronic Horizon
 	- Elektronischer Horizont etwa 200 Meter
 	- Wünschenswert wären 1000 Meter
-	- Car-to-Car vs Car-to-X
+	- ## Car-to-Car vs Car-to-X
 		- Car-to-Car Kommunikation, auch bekannt als Car2Car, ist ein Konzept, das verschiedene Vorteile verspricht, wie die Verbesserung der Straßenverkehrssicherheit durch frühzeitige Warnungen über Gefahrensituationen. Trotzdem hat sich diese Technologie bisher nicht ausreichend durchgesetzt.
-		  
-		  * Einer der Hauptgründe dafür ist die erforderliche kritische Masse. Damit Car2Car-Kommunikation effektiv funktioniert, muss eine ausreichende Anzahl von Fahrzeugen diese Technologie unterstützen. Ohne diese kritische Masse können die Vorteile der Technologie nicht vollständig genutzt werden.
-		  
-		  * Darüber hinaus stellt die Implementierung der Technologie ein erhebliches Problem dar. Die Hersteller sind sich oft nicht einig über Standards und Protokolle, was zu fragmentierten Systemen führt, die nicht miteinander kompatibel sind.
-		  
-		  * Außerdem gibt es Bedenken hinsichtlich Datensicherheit und Datenschutz. Da Car2Car-Kommunikation eine ständige Übertragung von Daten erfordert, sind die Fahrzeuge potenziellen Hackerangriffen ausgesetzt.
-		  
-		  * Schließlich gibt es Alternativen wie Car-to-X-Technologien (Car-to-Infrastructure, Car-to-Pedestrian usw.), die nicht auf andere Fahrzeuge angewiesen sind und daher als praktikabler eingestuft werden. Diese Technologien können zudem Informationen über die Verkehrssituation oder die Infrastruktur bereitstellen, die Car2Car-Kommunikation nicht bieten kann.
+		- Einer der Hauptgründe dafür ist die erforderliche kritische Masse. Damit Car2Car-Kommunikation effektiv funktioniert, muss eine ausreichende Anzahl von Fahrzeugen diese Technologie unterstützen. Ohne diese kritische Masse können die Vorteile der Technologie nicht vollständig genutzt werden.
+		- Darüber hinaus stellt die Implementierung der Technologie ein erhebliches Problem dar. Die Hersteller sind sich oft nicht einig über Standards und Protokolle, was zu fragmentierten Systemen führt, die nicht miteinander kompatibel sind.
+		- Außerdem gibt es Bedenken hinsichtlich Datensicherheit und Datenschutz. Da Car2Car-Kommunikation eine ständige Übertragung von Daten erfordert, sind die Fahrzeuge potenziellen Hackerangriffen ausgesetzt.
+		- Schließlich gibt es Alternativen wie Car-to-X-Technologien (Car-to-Infrastructure, Car-to-Pedestrian usw.), die nicht auf andere Fahrzeuge angewiesen sind und daher als praktikabler eingestuft werden. Diese Technologien können zudem Informationen über die Verkehrssituation oder die Infrastruktur bereitstellen, die Car2Car-Kommunikation nicht bieten kann.
+	- Mobility-Dataspace
