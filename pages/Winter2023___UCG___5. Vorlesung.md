@@ -58,4 +58,7 @@
 			- Beteiligt Bürger an der Verbesserung des Verkehrsflusses
 			- Erweitert ihre Werkzeuge für umweltorientiertes Verkehrsmanagement
 	-
--
+- # Electronic Horizon
+	- Elektronischer Horizont etwa 200 Meter
+	- Wünschenswert wären 1000 Meter
+	- Car-to-Car vs Car-to-X
